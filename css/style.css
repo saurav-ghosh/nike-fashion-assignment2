@@ -1,0 +1,133 @@
+.nav-logo img {
+    height: 30px;
+    margin-left: 50px;
+}
+.navigation-bg {
+    background-color: #fff1dc;
+}
+.logo-title {
+    font-weight: 900;
+}
+.home-contents-image img {
+    height: 350px;
+    margin: 50px;
+}
+.home-content {
+    background-color: rgb(255, 236, 236);
+}
+.home-contents-title h1 {
+    line-height: 40px;
+}
+.highlight-name {
+    color: tomato;
+}
+.home-content-btn {
+    border: 0;
+    margin-left: -8px;
+}
+.home-content-btn img {
+    height: 20px;
+    margin-right: 5px;
+}
+.home-content-btn a {
+    text-decoration: none;
+    padding: 12px 25px;
+    background-image: linear-gradient(#f46160, red);
+    border-radius: 10px;
+    color: white;
+    font-weight: 600;
+}
+.home-content-btn:hover a {
+    background-image: linear-gradient(red, #f46160);
+    color: white;
+}
+.shoes-sample img {
+    width: 50%;
+    margin-top: 20px;
+}
+.card-btn {
+    border: none;
+    background: none;
+}
+.shoes-sample span {
+    font-size: 30px;
+    font-weight: 700;
+    color: tomato;
+    margin-right: 65px;
+}
+.card-btn a {
+    text-decoration: none;
+    background-image: linear-gradient(#f46160, red);
+    padding: 12px 25px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 600;
+}
+.card-btn i {
+    margin-right: 5px;
+}
+.card-btn:hover a {
+    color: white;
+    background-image: linear-gradient(red, #f46160);
+}
+.casual-shoe-text {
+    text-align: center;
+}
+.formal-shoe-text {
+    text-align: center;
+}
+.features-image img {
+    height: 350px;
+    width: 450px;
+}
+.single-feature img {
+    height: 60px;
+    margin: 0 20px 0 20px;
+}
+.single-feature {
+    display: flex;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 7px rgb(202, 202, 202);
+    align-items: center;
+    padding: 10px;
+}
+.review-text {
+    text-align: center;
+    margin-bottom: 80px;
+}
+.clients-feedback img {
+    height: 150px;
+}
+.clients-feedback {
+    text-align: center;
+}
+.clients-feedback h5 {
+    margin-top: 15px;
+}
+.clients-feedback p {
+    margin-top: 10px;
+}
+.clients-rating img {
+    height: 15px;
+}
+.client-reviews {
+    background-color: rgb(255, 247, 235);
+    border-radius: 15px;
+}
+.features-text {
+    text-align: center;
+    margin-bottom: 80px;
+}
+h2 {
+    text-decoration: 3px solid rgb(255, 64, 6) underline;
+}
+footer {
+    background-color: rgb(255, 241, 220);
+    margin-top: 80px;
+}
+.footer-txt {
+    text-align: center;
+    padding: 20px 0;
+    color: rgb(66, 65, 65);
+}
